@@ -1,4 +1,4 @@
-# About
+# For amahi apps. DONT DELETE IT
 
 phpVirtualBox is from 2017 maintained by Smart Guide Pty Ltd (tudor at smartguide dot com dot au)
 
